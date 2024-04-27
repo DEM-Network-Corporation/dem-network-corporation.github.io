@@ -51,11 +51,15 @@ li.navbar a:hover {
     border-color: #000000;
 }
 h1.header {
-    font-size: 72px;
+    font-size: 80px;
     color: #114115;
 }
 div.data {
     margin-left:25%;
     border-color: #000000;
     padding:1px 16px;
+}
+p {
+    color: #FFFFFF;
+    font-size: 20px;
 }
