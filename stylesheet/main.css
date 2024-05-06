@@ -63,3 +63,61 @@ p {
     color: #FFFFFF;
     font-size: 20px;
 }
+p:hover {
+    color: #000000;
+    font-size: 25px;
+}
+span {
+    font-size: 10px;
+    color: #FFFFFF;
+}
+span:hover {
+    font-size: 15px;
+    color: #000000;
+}
+h1.header:hover {
+    font-size: 85px;
+    color: #EEBEEADF;
+}
+span.color_red {
+    font-size: 15px;
+    color: #FF0000;
+}
+span.color_red:hover {
+    font-size: 15px;
+    color: #FF0000;
+}
+div.applist {
+    background-color: #FFFFFFFF;
+    padding-top: 45px;
+    border-color: #000000FF;
+    border-radius: 20px;
+    padding-bottom: 55px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div.appdisplay {
+    background-color: #000000FF;
+    padding-top: 45px;
+    border-color: #FFFFFFFF;
+    border-radius: 10px;
+    padding-bottom: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+
+}
+div.appdisplay:hover {
+    background-color: #30A070FF;
+    padding-top: 45px;
+    border-color: #FF0000;
+    border-radius: 10px;
+    padding-bottom: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+p.applist_title {
+    font-size: 35px;
+    color: #000000FF
+}
