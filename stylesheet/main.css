@@ -121,3 +121,6 @@ p.applist_title {
     font-size: 35px;
     color: #000000FF
 }
+div.imagedisplay {
+    background-color: #FFFFFFFF;
+}
